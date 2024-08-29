@@ -1,12 +1,13 @@
-
+import Func from './my.jsx'
 
 function App() {
   
 
   return (
     <>
-    
-   <h1>Hello World</h1>
+    <Func />
+    <h1>Helo World</h1>
+   
     </>
   )
 }
